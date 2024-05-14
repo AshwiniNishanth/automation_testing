@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Softwares/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
